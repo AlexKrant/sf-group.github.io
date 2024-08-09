@@ -333,7 +333,7 @@ pre.w-code-block code {
   padding: 0;
   list-style-type: disc;
   transition: none;
-  display: block;
+  display: none;
   position: static;
   top: auto;
   bottom: auto;
@@ -360,7 +360,7 @@ pre.w-code-block code {
   font-size: 12px !important;
   line-height: 14px !important;
   text-decoration: none !important;
-  display: inline-block !important;
+  display: none !important;
   position: fixed !important;
   top: auto !important;
   bottom: 12px !important;
@@ -374,7 +374,7 @@ pre.w-code-block code {
   visibility: visible !important;
   opacity: 1 !important;
   vertical-align: middle !important;
-  display: inline-block !important;
+  display: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -3781,7 +3781,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .uui-section_heroheader07-2.sf {
-  background-image: url("https://cdn.prod.website-files.com/667901f370ed65c664b2023b/667a751d16415ffb87c47508_1690545518328-transformed%201.png");
+  background-image: url("cons1.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5217,7 +5217,7 @@ textarea.w-input, textarea.w-select {
   }
 
   .uui-section_heroheader07-2.sf {
-    background-image: url("https://cdn.prod.website-files.com/667901f370ed65c664b2023b/667a751d16415ffb87c47508_1690545518328-transformed%201.png");
+    background-image: url("cons1.png");
     background-position: 0%;
   }
 
